@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+    main {
+        padding: 43px 0;
+    }
+    .main_title {
+        font-size: 36px;
+    }
+    .result-card,
+    .question {
+        padding: 20px;
+    }
+    .result-card__question,
+    .question__title {
+        font-size: 18px;
+    }
+    .question__item_text {
+        font-size: 14px;
+    }
+}
